@@ -2,3 +2,5 @@ name: gegoldberg-Site
 title: null
 plugins:
   - jemoji
+
+theme: jekyll-theme-cayman
