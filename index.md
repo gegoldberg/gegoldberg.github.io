@@ -6,7 +6,7 @@
 
 Below you can find information about myself, and some of my recent projects I've been working on.
 
-[About Me](https://gegoldberg.github.io/aboutMe) [Projects](https://gegoldberg.github.io/aboutMe)
+[About Me](https://gegoldberg.github.io/aboutMe) // [Projects](https://gegoldberg.github.io/projects)
 
 
 <!-- The home page should act as a traditional home page. Include a greeting and a description of what the
