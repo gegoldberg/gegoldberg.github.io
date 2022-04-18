@@ -8,7 +8,7 @@ Below are some of my recent projects as a Computer Science student.
 
 [GitHub Page for Maze Solver](https://github.com/gegoldberg/MazeSolver)
 
-This project is a maze solver, in which the user can input a file that meets the requirements, and the program
+    This project is a maze solver, in which the user can input a file that meets the requirements, and the program
 will automatically solve it. The program shows the paths it attempts, as well as the optimal path from start to finish.
 This code was created in Java, using Eclipse. One of the most challenging parts was creating the method that solved
 the maze, which utilized a "textMaze" interface, which we learned in our CSC111 class. The code had to check all possible routes, and determine which route
@@ -20,7 +20,7 @@ allowed it to continue to reach the end goal of the maze file. Once solved, the 
 
 [GitHub Page for Maze Solver](https://github.com/gegoldberg/InteractiveScene)
 
-This project was an interactive scene, in which we took an art creation and allowed for the user to interact with it.
+    This project was an interactive scene, in which we took an art creation and allowed for the user to interact with it.
 The code utilized Wheels, a Java GUI that allowed the user to create shapes and interactions in the program. In this case,
 I created a simple neighborhood design that allowed the user to interact with objects such as the clouds, trees, and more.
 The most challenging part was utilizing associations, a concept we learned in our SER120 class. This involved one object's interactions
