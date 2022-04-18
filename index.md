@@ -1,7 +1,5 @@
 # Welcome.
 
-[Home](./)
-
 ### This is a website to learn more about me and my projects as a Computer Science student at Quinnipiac University.
 
 Below you can find information about myself, and some of my recent projects I've been working on.
