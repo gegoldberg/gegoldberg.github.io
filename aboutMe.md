@@ -4,7 +4,7 @@
 
 ![](EsportsHeadshot.jpg)
 
-### My name is Garrett Goldberg.
+### My Name is Garrett Goldberg.
 
 I'm a resident in Cheshire, CT, and am currently enrolled at Quinnipiac University
 as a Computer Science Major. I previously attended Cheshire High School, where I found my passion for technology.
