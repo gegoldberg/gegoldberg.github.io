@@ -4,12 +4,12 @@
 
 ![](EsportsHeadshot.jpg)
 
-    My name is Garrett Goldberg. I'm a resident in Cheshire, CT, and am currently enrolled at Quinnipiac University
+My name is Garrett Goldberg. I'm a resident in Cheshire, CT, and am currently enrolled at Quinnipiac University
 as a Computer Science Major. I previously attended Cheshire High School, where I found my passion for technology.
 I've always been surrounded by computers, and now I've finally gotten a chance to put that experience
 to good use.
 
-    My hobbies consist of going to the gym, soccer, and video games. I've always been an athlete, yet technology
+My hobbies consist of going to the gym, soccer, and video games. I've always been an athlete, yet technology
 always held a certain importance in my lifestyle. I'm currently part of the esports team at Quinnipiac as well.
 I am currently am learning Java at University, and plan on putting my experience to good use ASAP.
 
