@@ -18,7 +18,7 @@ maze to a new "solved" file. This project is one of my most difficult assignment
 
 ### **Interactive Scene**
 
-#### [GitHub Page for Maze Solver](https://github.com/gegoldberg/InteractiveScene)
+#### [GitHub Page for Interactive Scene](https://github.com/gegoldberg/InteractiveScene)
 
 This project was an interactive scene, in which we took an art creation and allowed for the user to interact with it.
 The code utilized Wheels, a Java GUI that allowed the user to create shapes and interactions in the program. In this case,
@@ -27,6 +27,12 @@ The most challenging part was utilizing associations, a concept we learned in ou
 interactions affecting the functions of another. In this case, when the sun is dragged, the sky changes color.
 This was a lot of fun, and allowed me to be creative and learn the depths of object oriented design.
 
+
+### **SER225 Game Project**
+
+#### [GitHub Page for Game Project](https://github.com/AndrewLabbe/Squirrel_RPG)
+
+This is a game created for Quinnipiac's SER225 Agile Development Class. We were put into teams for the entire semester, a we utilized agile development to work further on a game. Named, "Squirrel RPG", we created a RPG-Style game created entirely in Java. We utilized a java engine to create and develop this game, including unique movement features, mechanics, and more. This project and course spanned the whoel semester, and was one of the most unique and in-depth projects I had completed so far. This project allowed for creative freedom, where you could implement and create any game mechanics you could imagine.
 
 <!-- The projects page is where you are going to link to some of your GitHub projects and write a description
 of them (what did you make, what language did you use, anything interesting/challenging about it, etc.).
